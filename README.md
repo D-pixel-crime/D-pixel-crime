@@ -14,14 +14,14 @@
 - 📫 Reach out anytime at **dpk4383@gmail.com** – I’d love to connect!
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; justify-items: center; align-items: center;"">
   <a href="https://linkedin.com/in/deepak-kumar-pal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-kumar-pal" height="30" width="40" />
   </a>
   <a href="https://instagram.com/dpkcrime" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dpkcrime" height="30" width="40" />
   </a>
-</p>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 20px; justify-items: center; align-items: center;">
