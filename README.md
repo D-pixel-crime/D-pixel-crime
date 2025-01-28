@@ -1,5 +1,5 @@
-<h1 align="center">Konnichiwa 👋, This is Deepak Kumar Pal</h1>
-<h3 align="center">Full-Stack Web Developer | DSA Enthusiast</h3>
+<h1 align="center"><b>Konnichiwa 👋, This is Deepak Kumar Pal</b></h1>
+<h2 align="center">Full-Stack Web Developer | DSA Enthusiast</h2>
 
 - 🌱 I'm diving deep into the world of **PHP**, **SQL**, **AWS**!
   
