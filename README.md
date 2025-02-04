@@ -1,4 +1,4 @@
-<h1 align="center"><b>Konnichiwa 👋, This is Deepak Kumar Pal</b></h1>
+<h1 align="center"><b>Konnichiwa 👋, This is Deepak</b></h1>
 <h3 align="center">Full-Stack Web Developer | DSA Enthusiast</h3>
 <br>
 
