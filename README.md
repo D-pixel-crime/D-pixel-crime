@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer | DSA Enthusiast</h3>
 <br>
 
-- 🌱 Currently diving deep into the world of **PHP**, **SQL**, **AWS**!
+- 🌱 Currently diving deep into the world of **Web3**!
   
 - 💬 Got questions about **Web Development**? Let's chat and build something awesome together!
 
