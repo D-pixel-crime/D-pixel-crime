@@ -6,7 +6,7 @@
 ## 📌 About Me
 - 🔭 Passionate about uncovering how things work under the hood.
 - 🌱 Currently diving deep into Networks, System Design and Algorithms.
-- 📫 Reach out anytime at dpk4383@gmail.com – I’d love to connect!
+- 📫 I’d love to connect - Catch me on any of the links below!
 
 
 ## 📊 GitHub Stats & Trophies
