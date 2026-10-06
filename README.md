@@ -5,7 +5,7 @@
 
 ## 📌 About Me
 - 🔭 Passionate about uncovering how things work under the hood.
-- 🌱 Currently diving deep into Networks, System Design and Algorithms.
+- 🌱 Currently diving deep into Distributed Systems, System Design, Networks and Algorithms.
 - 📫 I’d love to connect - Catch me on any of the links below!
 
 
